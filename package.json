@@ -1,7 +1,7 @@
 {
   "name": "language-i3wm",
   "author": "Taylon Silva",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Atom syntax definition for the i3wm configuration file",
   "repository": "https://github.com/taylon/language-i3wm",
   "license": "MIT",
@@ -13,6 +13,5 @@
     "i3wm",
     "language"
   ],
-  "dependencies": {
-  }
+  "dependencies": {}
 }
